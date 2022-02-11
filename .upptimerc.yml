@@ -21,6 +21,7 @@ status-website:
   logoUrl: https://cdn.shopify.com/s/files/1/2567/9006/files/zto_Branding_Logo_Black_7dbecdc0-94c2-4641-95d3-acbad326581a.svg?v=1644603007
   name: Zero To One
   introTitle: "** Status Page **"
+  faviconSvg: https://cdn.shopify.com/s/files/1/2567/9006/files/zto_Branding_Logo_Black_7dbecdc0-94c2-4641-95d3-acbad326581a.svg?v=1644603007
   introMessage: Stores
   navbar:
     - title: Status
