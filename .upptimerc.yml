@@ -18,8 +18,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status-page-zto
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Zero To One
+  logoUrl: https://cdn.shopify.com/s/files/1/2567/9006/files/zto_Branding_Logo_Black.svg?v=1644598451
+  name: 
   introTitle: "**Zero To One** Status Page"
   introMessage: stores
   navbar:
