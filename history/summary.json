@@ -13,7 +13,7 @@
     "time": 338,
     "timeDay": 316,
     "timeWeek": 342,
-    "timeMonth": 330,
+    "timeMonth": 336,
     "timeYear": 338,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 396,
     "timeDay": 572,
     "timeWeek": 620,
-    "timeMonth": 407,
+    "timeMonth": 414,
     "timeYear": 396,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 531,
     "timeDay": 653,
     "timeWeek": 642,
-    "timeMonth": 530,
+    "timeMonth": 542,
     "timeYear": 531,
     "dailyMinutesDown": {}
   },
@@ -58,25 +58,27 @@
     "url": "https://www.hotshapers.com",
     "icon": "https://favicons.githubusercontent.com/www.hotshapers.com",
     "slug": "hot-shappers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 736,
     "timeDay": 589,
     "timeWeek": 638,
-    "timeMonth": 744,
+    "timeMonth": 747,
     "timeYear": 736,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 1
+    }
   },
   {
     "name": "Hot Vita",
     "url": "https://hotvita.com",
     "icon": "https://favicons.githubusercontent.com/hotvita.com",
     "slug": "hot-vita",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -85,8 +87,10 @@
     "time": 369,
     "timeDay": 357,
     "timeWeek": 432,
-    "timeMonth": 373,
+    "timeMonth": 382,
     "timeYear": 369,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 0
+    }
   }
 ]
