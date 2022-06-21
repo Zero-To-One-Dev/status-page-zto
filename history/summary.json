@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/vibrosculpt.com",
     "slug": "vibrosculpt",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 365,
     "timeDay": 281,
     "timeWeek": 274,
     "timeMonth": 434,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 19
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/www.drmingtea.com",
     "slug": "dr-ming",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 436,
     "timeDay": 539,
     "timeWeek": 402,
     "timeMonth": 462,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 19
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/www.copperslim.com",
     "slug": "copper-slim",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 664,
     "timeDay": 453,
     "timeWeek": 637,
     "timeMonth": 750,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 18
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://www.hotshapers.com",
     "icon": "https://favicons.githubusercontent.com/www.hotshapers.com",
     "slug": "hot-shappers",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 883,
-    "timeDay": 652,
-    "timeWeek": 983,
-    "timeMonth": 985,
-    "timeYear": 883,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 882,
+    "timeDay": 641,
+    "timeWeek": 943,
+    "timeMonth": 974,
+    "timeYear": 882,
     "dailyMinutesDown": {
-      "2022-06-21": 0,
+      "2022-06-21": 18,
       "2022-03-11": 6
     }
   },
@@ -86,18 +86,18 @@
     "icon": "https://favicons.githubusercontent.com/hotvita.com",
     "slug": "hot-vita",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 443,
     "timeDay": 294,
     "timeWeek": 309,
     "timeMonth": 433,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2022-06-21": 0,
+      "2022-06-21": 18,
       "2022-03-11": 6
     }
   }
